@@ -16,6 +16,7 @@
 
 </ol>
 
+<p> Pair-programming : @funkykath: Kathleen Elie </p>
 <h2>Rails</h2>
 
 </body>
